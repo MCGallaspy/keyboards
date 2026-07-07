@@ -1,0 +1,21 @@
+﻿store(&NAME) 'washoe-basic'
+store(&TARGETS) 'any desktop'
+begin Unicode > use(main)
+
+group(main) using keys
++ [SHIFT K_R] > '́·'
++ [K_R] > '́·'
++ [SHIFT K_F] > '́'
++ [K_F] > '́'
++ [SHIFT K_V] > 'Ɨ'
++ [K_V] > 'ɨ'
++ [SHIFT K_X] > 'Š'
++ [K_X] > 'š'
++ [SHIFT K_C] > 'Ć'
++ [K_C] > 'ć'
++ [SHIFT ALT K_Z] > 'Ʒ'
++ [ALT K_Z] > 'ʒ'
++ [SHIFT K_J] > 'Ɂ'
++ [K_J] > 'ʔ'
++ [K_Q] > 'ŋ'
++ [SHIFT K_Q] > 'Ŋ'

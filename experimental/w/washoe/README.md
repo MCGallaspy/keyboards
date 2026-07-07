@@ -3,7 +3,9 @@ washoe keyboard
 
 Description
 -----------
-A keyboard for the Washoe language based on William Jacobsen's orthography.
+A set of keyboards for the wá∙šiw (Washoe) language based on William Jacobsen's orthography.
+
+Developed by Michael Collins Gallaspy and Max Henry Blechman.
 
 Links
 -----

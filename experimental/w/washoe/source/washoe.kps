@@ -19,9 +19,11 @@
   </StartMenu>
   <Info>
     <Name URL="">washoe</Name>
-    <Copyright URL="">Copyright ©</Copyright>
-    <Author URL=""></Author>
-    <Description URL="">A keyboard for the Washoe language based on William Jacobsen's orthography.</Description>
+    <Copyright URL="">Copyright © Washoe Tribe of Nevada and California</Copyright>
+    <Author URL="mailto:gallaspy.michael@gmail.com">Michael Collins Gallaspy and Max Henry Blechman</Author>
+    <Description URL="">A set of keyboards for the wá∙šiw (Washoe) language based on William Jacobsen's orthography.
+
+Developed by Michael Collins Gallaspy and Max Henry Blechman.</Description>
     <Version URL=""></Version>
   </Info>
   <Files>
