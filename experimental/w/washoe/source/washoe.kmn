@@ -2,7 +2,7 @@
 c with name "washoe"
 store(&VERSION) '10.0'
 store(&NAME) 'washoe-qwerty'
-store(&COPYRIGHT) 'Copyright ©'
+store(&COPYRIGHT) 'Copyright © Washoe Tribe of Nevada and California'
 store(&KEYBOARDVERSION) '1.0'
 store(&TARGETS) 'any desktop'
 store(&BITMAP) 'washoe.ico'

@@ -1,5 +1,8 @@
 ﻿store(&NAME) 'washoe-basic'
 store(&TARGETS) 'any desktop'
+store(&VISUALKEYBOARD) 'washoe-basic.kvks'
+store(&LAYOUTFILE) 'washoe-basic.keyman-touch-layout'
+store(&COPYRIGHT) 'Copyright © Washoe Tribe of Nevada and California'
 begin Unicode > use(main)
 
 group(main) using keys
