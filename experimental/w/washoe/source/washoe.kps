@@ -63,10 +63,34 @@ Developed by Michael Collins Gallaspy and Max Henry Blechman.</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.md</FileType>
     </File>
+    <File>
+      <Name>..\build\washoe_basic.js</Name>
+      <Description>File washoe_basic.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\washoe_basic.kvk</Name>
+      <Description>File washoe_basic.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\build\washoe_basic.kmx</Name>
+      <Description>Keyboard washoe_basic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <ID>washoe</ID>
+      <Languages>
+        <Language ID="was">Washo</Language>
+      </Languages>
+    </Keyboard>
+    <Keyboard>
+      <ID>washoe_basic</ID>
       <Languages>
         <Language ID="was">Washo</Language>
       </Languages>
