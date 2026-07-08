@@ -1,7 +1,7 @@
 ﻿c washoe generated from template at 2026-07-07 09:09:43
 c with name "washoe"
 store(&VERSION) '10.0'
-store(&NAME) 'washoe-qwerty'
+store(&NAME) 'washoe_qwerty'
 store(&COPYRIGHT) 'Copyright © Washoe Tribe of Nevada and California'
 store(&KEYBOARDVERSION) '1.0'
 store(&TARGETS) 'any desktop'
