@@ -1105,39 +1105,6 @@
             "id": 5,
             "key": [
               {
-                "id": "K_LCONTROL",
-                "text": "rightctrl",
-                "width": 130,
-                "sp": 1,
-                "nextlayer": "rightctrl",
-                "sk": [
-                  {
-                    "nextlayer": "rightctrl",
-                    "id": "K_LCONTROL",
-                    "sp": 1,
-                    "text": "rightctrl"
-                  },
-                  {
-                    "nextlayer": "rightalt",
-                    "id": "K_LCONTROL",
-                    "sp": 1,
-                    "text": "rightalt"
-                  },
-                  {
-                    "nextlayer": "rightctrl-shift",
-                    "id": "K_LCONTROL",
-                    "sp": 1,
-                    "text": "rightctrl-shift"
-                  },
-                  {
-                    "nextlayer": "rightalt-shift",
-                    "id": "K_LCONTROL",
-                    "sp": 1,
-                    "text": "rightalt-shift"
-                  }
-                ]
-              },
-              {
                 "id": "K_LOPT",
                 "text": "*Menu*",
                 "width": 140,

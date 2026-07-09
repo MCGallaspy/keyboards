@@ -507,27 +507,6 @@
             "id": 5,
             "key": [
               {
-                "id": "K_LCONTROL",
-                "text": "alt",
-                "width": 130,
-                "sp": 1,
-                "nextlayer": "alt",
-                "sk": [
-                  {
-                    "nextlayer": "alt",
-                    "id": "K_LCONTROL",
-                    "sp": 1,
-                    "text": "alt"
-                  },
-                  {
-                    "nextlayer": "shift-alt",
-                    "id": "K_LCONTROL",
-                    "sp": 1,
-                    "text": "shift-alt"
-                  }
-                ]
-              },
-              {
                 "id": "K_LOPT",
                 "text": "*Menu*",
                 "width": 140,
